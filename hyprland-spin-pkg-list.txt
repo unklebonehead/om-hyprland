@@ -1,16 +1,16 @@
 Base install add the following:
 
-hyprland
-kitty
-hyprland-qt-support
-hyprsysteminfo
-hyprpolkitagent
-hyprgui
-grim
-slurp
-rofi
-pcmanfm-qt
-azote
-vim
-micro
-kvantum
+- hyprland
+- kitty
+- hyprland-qt-support
+- hyprsysteminfo
+- hyprpolkitagent
+- hyprgui
+- grim
+- slurp
+-rofi
+- azote
+- vim
+- micro
+- kvantum
+- ranger
